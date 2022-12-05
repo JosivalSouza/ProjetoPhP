@@ -1,0 +1,88 @@
+#centralizar{
+    text-align: center;
+}
+#espaco{
+    margin-bottom: 20px;
+    color: white;
+
+}
+#borda{
+    border: 4px;
+    border-color: black;
+}
+.navbar-header{
+    height: 50px;
+    word-spacing: 180px;
+    text-align: center;
+    font-size: x-large;
+    
+}
+textarea{
+    width: 600px;
+    height: 200px;
+    margin: 30px;
+    background-color: white;
+    caret-color: white;
+}
+legend{
+    color: blue;
+    font-size: 15px;
+    font-family: verdana;
+    
+    
+}
+img{
+
+    width: 50%;
+    height: auto;
+    padding-left: 350px;
+    text-align: center;
+    
+}
+
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: black;
+
+}
+h1{
+    text-align: center;
+    color: white;
+    background: grey;
+    margin: 0;
+}
+h2{
+    color: white;
+    text-align: center;
+}
+h3{
+    text-align: center;
+    color: white
+}
+p{
+    color: white;
+}
+a{
+    width: 50px;
+}
+p{
+    text-align: center;
+}
+
+#h1{
+    position: absolute;
+}
+#hf{
+    font-size: xx-large;
+    color: white;
+}
+#ft{
+    font-size: x-large;
+}
+button{
+    cursor: pointer;
+    box-shadow: 0 0 15px transparent;
+    border-radius: 5px;
+}

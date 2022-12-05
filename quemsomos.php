@@ -1,0 +1,2 @@
+<h3 id="hf">Somos um site de jogos, isso mesmo, dúvido que você tenha descoberto o que era</h3>
+<h3 id="ft">Aqui você encontrará jogos e seus respectivos preços, plataformas, gênero e com uma breve descrição</h3>
